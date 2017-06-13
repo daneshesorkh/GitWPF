@@ -23,7 +23,7 @@ namespace GitWPF
         public MainWindow()
         {
             InitializeComponent();
-            // Test
+            // Testing Github
         }
     }
 }
