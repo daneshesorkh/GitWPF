@@ -23,6 +23,7 @@ namespace GitWPF
         public MainWindow()
         {
             InitializeComponent();
+            //Add
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
