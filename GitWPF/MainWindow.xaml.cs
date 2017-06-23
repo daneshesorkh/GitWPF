@@ -25,5 +25,10 @@ namespace GitWPF
             InitializeComponent();
             // Testing Github
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(textBox.Text);
+        }
     }
 }
