@@ -23,7 +23,6 @@ namespace GitWPF
         public MainWindow()
         {
             InitializeComponent();
-            // Test Branch Version1
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
